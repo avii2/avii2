@@ -18,13 +18,13 @@ I'm an M.Tech (CSE) student at IIT (ISM) Dhanbad (2026), focused on building pra
 
 I enjoy taking problems from idea -> data -> model -> deployment. I've worked on end-to-end workflows like data preparation, training/fine-tuning, evaluation, and integrating models into real products. I'm also comfortable with strong engineering fundamentals and performance-oriented problem solving.
 
-What I work with:
-- GenAI / LLMs (RAG, agents, tool use, prompt + eval loops)
+What I work With :
+- GenAI (RAG , GraphRAG, knowledge graphs )
 - LangChain + LangGraph (orchestration, tool use, evaluation loops)
 - ML/DL (modeling, experimentation, metrics, debugging)
 - Python, C++, SQL, analytics, APIs, cloud-based workflows
 - Cybersecurity-aware and secure AI systems
-- Blockchain (interest area)
+-  Competative Programming (CP) 
 
 I'm actively looking for full-time roles in GenAI / LLM Engineer, ML Engineer, Applied Scientist, Data Scientist, AI Engineer, AI Security / Cybersecurity Analytics, and LLMOps / MLOps where I can ship impactful AI features, not just notebooks.
 
