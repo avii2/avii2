@@ -2,28 +2,40 @@
   <img src="./profile_img.png" alt="Profile banner" />
 </p>
 
-<h1 align="center">Devendra Maharshi</h1>
-<p align="center">Full Stack Developer</p>
+<h1 align="center">Anil Kumar</h1>
+<p align="center">M.Tech (CSE) student at IIT (ISM) Dhanbad (2026) | GenAI / LLM</p>
 <p align="center">
-  <a href="mailto:devendramaharshi005@gmail.com">devendramaharshi005@gmail.com</a>
+  <a href="mailto:anilkumarbarupal.01@gmail.com">anilkumarbarupal.01@gmail.com</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devendramaharshi005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=avii2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 > Place your banner image at `profile_img.png` or update the path above.
 
 ## About Me
 
-I am a Full-Stack Developer with experience in React, Node.js, and Express, specializing in building scalable and high-performance applications. Passionate about writing clean, maintainable code, I have worked on frontend and backend development, RESTful APIs, authentication, and CI/CD pipelines. I enjoy solving complex problems and continuously learning new technologies to enhance user experience and application security.
+I'm an M.Tech (CSE) student at IIT (ISM) Dhanbad (2026), focused on building practical AI systems, especially Generative AI, LLM applications, and deep learning.
+
+I enjoy taking problems from idea -> data -> model -> deployment. I've worked on end-to-end workflows like data preparation, training/fine-tuning, evaluation, and integrating models into real products. I'm also comfortable with strong engineering fundamentals and performance-oriented problem solving.
+
+What I work with:
+- GenAI / LLMs (RAG, agents, tool use, prompt + eval loops)
+- ML/DL (modeling, experimentation, metrics, debugging)
+- Python, C++, SQL, analytics, APIs, cloud-based workflows
+- Interest area: secure + scalable AI (cybersecurity-aware systems)
+
+I'm actively looking for full-time roles in GenAI / LLM Engineer, ML Engineer, Applied Scientist, Data Scientist, AI Engineer, and AI + Security / Cybersecurity Analytics where I can ship impactful AI features, not just notebooks.
+
+Email: anilkumarbarupal.01@gmail.com
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devendramaharshi005)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avii2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendramaharshi005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumarbarupal.01@gmail.com)
 
 ## Skills
 
