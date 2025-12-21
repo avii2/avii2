@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=avii2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-> Place your banner image at `profile_img.png` or update the path above.
-
 ## About Me
 
 I'm an M.Tech (CSE) student at IIT (ISM) Dhanbad (2026), focused on building practical AI systems, especially Generative AI, LLM applications, and deep learning.
