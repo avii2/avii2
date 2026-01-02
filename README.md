@@ -14,21 +14,13 @@
 
 ## About Me
 
-I'm an M.Tech (CSE) student at IIT (ISM) Dhanbad (2026), focused on building practical AI systems, especially Generative AI, LLM applications, and deep learning.
+Hi! Thank you for visiting my profile!
 
-I enjoy taking problems from idea -> data -> model -> deployment. I've worked on end-to-end workflows like data preparation, training/fine-tuning, evaluation, and integrating models into real products. I'm also comfortable with strong engineering fundamentals and performance-oriented problem solving.
+I’m Anil, a final-year M.Tech (CSE) scholar at IIT (ISM) Dhanbad (Class of 2026), focused on bridging the gap between theoretical Deep Learning and practical software engineering. I specialize in building robust Generative AI systems and LLM applications, with a clear philosophy of taking problems from the initial idea phase through data preparation, modeling, and finally to deployment in production environments.
 
-What I work With :
-- GenAI (RAG , GraphRAG, knowledge graphs )
-- LangChain + LangGraph (orchestration, tool use, evaluation loops)
-- ML/DL (modeling, experimentation, metrics, debugging)
-- Python, C++, SQL, analytics, APIs, cloud-based workflows
-- Cybersecurity-aware and secure AI systems
--  Competative Programming (CP) 
-
-I'm actively looking for full-time roles in GenAI / LLM Engineer, ML Engineer, Applied Scientist, Data Scientist, AI Engineer, AI Security / Cybersecurity Analytics, and LLMOps / MLOps where I can ship impactful AI features, not just notebooks.
-
-Email: anilkumarbarupal.01@gmail.com
+I am actively seeking full-time roles as a GenAI/LLM Engineer, ML Engineer, or Applied Scientist where I can ship impactful AI features. Let’s connect to explore how I can bring performance-oriented problem solving to your engineering team. 
+You can reach me at anilkumarbarupal.01@gmail.com.
+portfolio websites : https://anilkb.surge.sh/
 
 ## Connect with me
 
