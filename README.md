@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Anil Kumar</h1>
-<p align="center">M.Tech (CSE) student at IIT (ISM) Dhanbad (2026) </p>
+<p align="center">M.Tech (CSE) student at IIT (ISM) Dhanbad (2026)</p>
 <p align="center">
-  <a href="mailto:anilkumarbarupal.01@gmail.com">anilkumarbarupal.01@gmail.com</a>
-  <a href = "portfolio : https://anilkb.surge.sh/"> Portfolio : https://anilkb.surge.sh/</a>
+  <a href="mailto:anilkumarbarupal.01@gmail.com">anilkumarbarupal.01@gmail.com</a> |
+  <a href="https://anilkb.surge.sh/">Portfolio: https://anilkb.surge.sh/</a>
 </p>
 
 <p align="center">
