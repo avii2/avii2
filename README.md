@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./profile_img.png" alt="Profile banner" />
-</p>
+
 
 <h1 align="center">Anil Kumar</h1>
 <p align="center">M.Tech (CSE) student at IIT (ISM) Dhanbad (2026)</p>
