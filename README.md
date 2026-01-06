@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi !, Thank you for visiting my profile!
+Hi!, Thank you for visiting my profile!
 
 I’m Anil, a final-year M.Tech (CSE) scholar at IIT (ISM) Dhanbad (Class of 2026), focused on bridging the gap between theoretical Deep Learning and practical software engineering. I specialize in building robust Generative AI systems and LLM applications, with a clear philosophy of taking problems from the initial idea phase through data preparation, modeling, and finally to deployment in production environments.
 
