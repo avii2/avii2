@@ -15,9 +15,11 @@
 
 Hi, Thank you for visiting my profile!
 
-I’m Anil, a final-year M.Tech (CSE) scholar at IIT (ISM) Dhanbad (Class of 2026), focused on bridging the gap between theoretical Deep Learning and practical software engineering. I specialize in building robust Generative AI systems and LLM applications, with a clear philosophy of taking problems from the initial idea phase through data preparation, modeling, and finally to deployment in production environments.
+I am a final year M.Tech (CSE) student at IIT (ISM) Dhanbad with a strong foundation in core Computer Science & I build scalable, deployment ready software.
 
-I am actively seeking full-time roles as a GenAI/LLM Engineer, ML Engineer, or Applied Scientist where I can ship impactful AI features. Let’s connect to explore how I can bring performance-oriented problem solving to your engineering team. 
+With a background in both standard Software Engineering and Advanced AI, I don’t just write code I build reliable systems. My expertise spans Full-Stack Development, System Design, and Generative AI. Whether it’s architecting a secure backend, optimizing low-level system performance, or deploying a complex RAG engine, I focus on creating cost-efficient and user-centric solutions.
+
+I have successfully delivered projects across the spectrum: from full-stack applications like property listing sites and wishlist apps to research-heavy systems involving Blockchain and Knowledge Graphs. I am adaptable, technology-agnostic, and currently open to opportunities in Software Development, Data Engineering, AI/ML, and System Architecture.
 
 You can reach me at anilkumarbarupal.01@gmail.com.
 portfolio websites : https://anilkb.surge.sh/
