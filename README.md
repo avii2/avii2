@@ -17,7 +17,7 @@ Hi, Thank you for visiting my profile!
 
 I am a final year M.Tech (CSE) student at IIT (ISM) Dhanbad with a strong foundation in core Computer Science & I build scalable, deployment ready software.
 
-With a background in both standard Software Engineering and Advanced AI, I don’t just write code I build reliable systems. My expertise spans Full-Stack Development, System Design, and Generative AI. Whether it’s architecting a secure backend, optimizing low-level system performance, or deploying a complex RAG engine, I focus on creating cost-efficient and user-centric solutions.
+With a background in both Core Computer Science and Engineering and  in  Software Engineering, I don’t just write code I build reliable systems. My expertise spans Full-Stack Development, System Design, and Generative AI. Whether it’s architecting a secure backend, optimizing low-level system performance, or deploying a complex RAG engine, I focus on creating cost-efficient and user-centric solutions.
 
 I have successfully delivered projects across the spectrum: from full-stack applications like property listing sites and wishlist apps to research-heavy systems involving Blockchain and Knowledge Graphs. I am adaptable, technology-agnostic, and currently open to opportunities in Software Development, Data Engineering, AI/ML, and System Architecture.
 
@@ -26,7 +26,7 @@ portfolio websites : https://anilkb.surge.sh/
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kumar-0342711b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkbarupal/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avii2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mr_barupal)
