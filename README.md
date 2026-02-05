@@ -33,65 +33,68 @@ portfolio websites : https://anilkb.surge.sh/
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_barupal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumarbarupal.01@gmail.com)
 
+
+
 ## Skills
 
-<table>
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td><img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge" /></td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" /></td>
-    <td></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%">&nbsp;</td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
-    <td></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td align="center" width="25%">&nbsp;</td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" /></td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
   </tr>
 </table>
+
 
 
 
