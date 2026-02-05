@@ -39,59 +39,59 @@ portfolio websites : https://anilkb.surge.sh/
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logoColor=white" /></td>
     <td align="center" width="25%">&nbsp;</td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/API%20Development-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/API%20Development-000000?style=for-the-badge&logoColor=white" /></td>
     <td align="center" width="25%">&nbsp;</td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logoColor=white" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logoColor=white" /></td>
   </tr>
 </table>
 
