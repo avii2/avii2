@@ -50,16 +50,15 @@ portfolio websites : https://anilkb.surge.sh/
     <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge" /></td>
-  </tr>
 
-  <tr>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" /></td>
+   
     <td align="center" width="25%">&nbsp;</td>
   </tr>
 
   <tr>
+     <td align="center" width="25%"><img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" /></td>
     <td align="center" width="25%"><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
