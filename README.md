@@ -35,42 +35,58 @@ portfolio websites : https://anilkb.surge.sh/
 
 ## Skills
 
-## Skills
+<p align="center">
+  <img alt="Programming" src="https://img.shields.io/badge/Programming-000000?style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img alt="Core CS" src="https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge" />
+  <img alt="Data Structures & Algorithms" src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" />
+  <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge" />
+  <img alt="DBMS" src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" />
+</p>
 
-![Core%20CS](https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge)
-![Data%20Structures%20%26%20Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
-![Operating%20Systems](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-000000?style=for-the-badge)
-![Computer%20Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
-![System%20Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+<p align="center">
+  <img alt="Computer Networks" src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" />
+  <img alt="System Design" src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" />
+</p>
 
-![Backend%20%26%20APIs](https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge)
-![REST%20APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <img alt="Backend & APIs" src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-![Databases](https://img.shields.io/badge/Databases-000000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  <img alt="Databases" src="https://img.shields.io/badge/Databases-000000?style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-![DevOps%20%26%20Tools](https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img alt="DevOps & Tools" src="https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-![Testing%20%26%20Quality](https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge)
-![Unit%20Testing](https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge)
-![CI%2FCD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
+<p align="center">
+  <img alt="Testing & Quality" src="https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge" />
+  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" />
+</p>
 
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
 
