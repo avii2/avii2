@@ -35,20 +35,42 @@ portfolio websites : https://anilkb.surge.sh/
 
 ## Skills
 
-![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+## Skills
+
+![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+
+![Core%20CS](https://img.shields.io/badge/Core%20CS-000000?style=for-the-badge)
+![Data%20Structures%20%26%20Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
+![Operating%20Systems](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-000000?style=for-the-badge)
+![Computer%20Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
+![System%20Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+
+![Backend%20%26%20APIs](https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge)
+![REST%20APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Databases](https://img.shields.io/badge/Databases-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![DevOps%20%26%20Tools](https://img.shields.io/badge/DevOps%20%26%20Tools-000000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+
+![Testing%20%26%20Quality](https://img.shields.io/badge/Testing%20%26%20Quality-000000?style=for-the-badge)
+![Unit%20Testing](https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
+
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+
