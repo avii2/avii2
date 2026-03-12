@@ -19,7 +19,7 @@ I am a final year M.Tech (CSE) student at IIT (ISM) Dhanbad with a strong founda
 
 With a background in both Core Computer Science and Engineering and  in  Software Engineering, I don’t just write code I build reliable systems. My expertise spans Full-Stack Development, System Design, and Generative AI. Whether it’s architecting a secure backend, optimizing low-level system performance, or deploying a complex RAG engine, I focus on creating cost-efficient and user-centric solutions.
 
-I have successfully delivered projects across the spectrum: from full-stack applications like property listing sites and wishlist apps to research-heavy systems involving Blockchain and Knowledge Graphs. I am adaptable, technology-agnostic, and currently open to opportunities in Software Development, Data Engineering, AI/ML, and System Architecture.
+I have successfully delivered projects across the spectrum: from full-stack applications like property listing sites and wishlist apps to research-heavy systems involving Blockchain and Knowledge Graphs. I am adaptable, technology-agnostic, and currently open to opportunities in Software Development, Data Engineering, AI/ML, and System Architecture. 
 
 You can reach me at anilkumarbarupal.01@gmail.com.
 portfolio websites : https://anilkb.surge.sh/
