@@ -13,13 +13,14 @@
 
 ## About Me
 
-Hi, Thank you for visiting my profile!
+I am a final-year M.Tech (CSE) student at IIT (ISM) Dhanbad, focused on building practical AI/ML and Generative AI systems that are reliable, scalable, and ready for real world use.
 
-I am a final year M.Tech (CSE) student at IIT (ISM) Dhanbad with a strong foundation in core Computer Science & I build scalable, deployment ready software.
+My work sits at the intersection of machine learning, LLM applications, and backend engineering. I have built projects involving RAG pipelines, NLP systems, local LLM deployment, full stack AI applications, and research driven ML workflows. I enjoy taking ideas from experimentation to usable products by combining strong computer science fundamentals with hands-on implementation. 
 
-With a background in both Core Computer Science and Engineering and  in  Software Engineering, I don’t just write code I build reliable systems. My expertise spans Full-Stack Development, System Design, and Generative AI. Whether it’s architecting a secure backend, optimizing low-level system performance, or deploying a complex RAG engine, I focus on creating cost-efficient and user-centric solutions.
+I am especially interested in building GenAI systems that solve real problems such as intelligent assistants, knowledge retrieval, document understanding, and domain specific AI applications. Along with model development, I also care about system design, API integration, performance, and deployment, because useful AI is not just about models, but about building complete systems that work well for users.
 
-I have successfully delivered projects across the spectrum: from full-stack applications like property listing sites and wishlist apps to research-heavy systems involving Blockchain and Knowledge Graphs. I am adaptable, technology-agnostic, and currently open to opportunities in Software Development, Data Engineering, AI/ML, and System Architecture. 
+I am currently looking for opportunities as an AI Engineer, ML Engineer, or GenAI Engineer, where I can contribute in areas such as LLMs, RAG, NLP, Python, backend systems, and AI product development.
+
 
 You can reach me at anilkumarbarupal.01@gmail.com.
 portfolio websites : https://anilkb.surge.sh/
