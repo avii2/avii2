@@ -13,14 +13,19 @@
 
 ## About Me
 
-I am a final-year M.Tech (CSE) student at IIT (ISM) Dhanbad, focused on building practical AI/ML and Generative AI systems that are reliable, scalable, and ready for real world use.
+ I am an AI/ML Engineer at Secninjaz Technologies LLP, where I build end-to-end LLM solutions on on-premise GPU infrastructure and work with the core AI team on the org's transition to an AI-native organization.
 
-My work sits at the intersection of machine learning, LLM applications, and backend engineering. I have built projects involving RAG pipelines, NLP systems, local LLM deployment, full stack AI applications, and research driven ML workflows. I enjoy taking ideas from experimentation to usable products by combining strong computer science fundamentals with hands-on implementation. 
+With an M.Tech in Computer Science and Engineering from IIT (ISM) Dhanbad and a background in both software engineering and applied AI, I don't just write code, I build reliable systems. My expertise spans Generative AI (RAG, agentic pipelines, prompt engineering), backend development, and system design. Whether it's architecting a retrieval pipeline, deploying an LLM solution, or building out backend APIs, I focus on creating cost-efficient and user-centric solutions.
+ 
+I enjoy taking ideas from experimentation to usable products by combining strong computer science fundamentals with hands-on implementation. 
 
-I am especially interested in building GenAI systems that solve real problems such as intelligent assistants, knowledge retrieval, document understanding, and domain specific AI applications. Along with model development, I also care about system design, API integration, performance, and deployment, because useful AI is not just about models, but about building complete systems that work well for users.
+I am especially interested in building GenAI systems that solve real problems such as intelligent assistants, knowledge retrieval, document understanding, and domain specific AI applications. 
+
+Along with model development, I also care about system design, API integration, performance, and deployment, because useful AI is not just about models, but about building complete systems that work well for users.
 
 I am currently looking for opportunities as an AI Engineer, ML Engineer, or GenAI Engineer, where I can contribute in areas such as LLMs, RAG, NLP, Python, backend systems, and AI product development.
 
+Stay Kind and work Hard,  Happy to Connect!!
 
 You can reach me at anilkumarbarupal.01@gmail.com.
 portfolio websites : https://anilkb.surge.sh/
